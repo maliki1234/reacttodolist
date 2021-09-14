@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.com/maliki1234/reacttodolist.git/static/css/main.1a24e09d.chunk.css",
+    "main.js": "/github.com/maliki1234/reacttodolist.git/static/js/main.6abaca05.chunk.js",
+    "main.js.map": "/github.com/maliki1234/reacttodolist.git/static/js/main.6abaca05.chunk.js.map",
+    "runtime-main.js": "/github.com/maliki1234/reacttodolist.git/static/js/runtime-main.39118aee.js",
+    "runtime-main.js.map": "/github.com/maliki1234/reacttodolist.git/static/js/runtime-main.39118aee.js.map",
+    "static/js/2.1f390fd5.chunk.js": "/github.com/maliki1234/reacttodolist.git/static/js/2.1f390fd5.chunk.js",
+    "static/js/2.1f390fd5.chunk.js.map": "/github.com/maliki1234/reacttodolist.git/static/js/2.1f390fd5.chunk.js.map",
+    "index.html": "/github.com/maliki1234/reacttodolist.git/index.html",
+    "static/css/main.1a24e09d.chunk.css.map": "/github.com/maliki1234/reacttodolist.git/static/css/main.1a24e09d.chunk.css.map",
+    "static/js/2.1f390fd5.chunk.js.LICENSE.txt": "/github.com/maliki1234/reacttodolist.git/static/js/2.1f390fd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39118aee.js",
+    "static/js/2.1f390fd5.chunk.js",
+    "static/css/main.1a24e09d.chunk.css",
+    "static/js/main.6abaca05.chunk.js"
+  ]
+}
